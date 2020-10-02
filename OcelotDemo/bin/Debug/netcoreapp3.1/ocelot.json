@@ -1,0 +1,30 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/MessageService/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/{url}",
+      "DownstreamScheme": "http",
+      "ServiceName": "MessageService",
+      "LoadBalancerOptions": { "Type": "RoundRobin" },
+      "UseServiceDiscovery": true 
+
+    },
+    {
+      "UpstreamPathTemplate": "/ProductService/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/{url}",
+      "DownstreamScheme": "http",
+      "ServiceName": "ProductService",
+      "LoadBalancerOptions": { "Type": "LeastConnection" }, //RoundRobin
+      "UseServiceDiscovery": true
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "192.168.1.102",
+      "Port": 8500,
+      "Type": "Consul"
+    }
+  }
+}

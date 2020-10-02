@@ -1,0 +1,17 @@
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\aspectDemo.exe
+D:\Project\MicroService\aspectDemo\obj\Debug\netcoreapp3.1\aspectDemo.AssemblyInfoInputs.cache
+D:\Project\MicroService\aspectDemo\obj\Debug\netcoreapp3.1\aspectDemo.AssemblyInfo.cs
+D:\Project\MicroService\aspectDemo\obj\Debug\netcoreapp3.1\aspectDemo.csproj.CoreCompileInputs.cache
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\aspectDemo.deps.json
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\aspectDemo.runtimeconfig.json
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\aspectDemo.runtimeconfig.dev.json
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\aspectDemo.dll
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\aspectDemo.pdb
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\AspectCore.Abstractions.dll
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\AspectCore.Core.dll
+D:\Project\MicroService\aspectDemo\bin\Debug\netcoreapp3.1\AspectCore.Extensions.Reflection.dll
+D:\Project\MicroService\aspectDemo\obj\Debug\netcoreapp3.1\aspectDemo.csproj.CopyComplete
+D:\Project\MicroService\aspectDemo\obj\Debug\netcoreapp3.1\aspectDemo.dll
+D:\Project\MicroService\aspectDemo\obj\Debug\netcoreapp3.1\aspectDemo.pdb
+D:\Project\MicroService\aspectDemo\obj\Debug\netcoreapp3.1\aspectDemo.genruntimeconfig.cache
+D:\Project\MicroService\aspectDemo\obj\Debug\netcoreapp3.1\aspectDemo.csprojAssemblyReference.cache

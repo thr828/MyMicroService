@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductService", "MicroService\ProductService.csproj", "{B181F464-A9B8-47D7-B0B3-0351873B1811}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageService", "MessageService\MessageService.csproj", "{BB29C3CC-5AC3-4965-83B8-066F5CDCD7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceConsumer", "ServiceConsumer\ServiceConsumer.csproj", "{2A17C9BA-A7F0-42F7-88BE-4A343C72F97C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyDemo", "PollyDemo\PollyDemo.csproj", "{8A7B4185-265D-43E3-9587-7CFC17DC7822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspectDemo", "aspectDemo\aspectDemo.csproj", "{D26914F3-A633-4399-B82B-974B42540D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HystrixCore", "HystrixCore\HystrixCore.csproj", "{45343C2D-226C-4A93-B1F1-F095D990B127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OcelotDemo", "OcelotDemo\OcelotDemo.csproj", "{A120898B-F06C-4FA4-845F-A89657346AE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B181F464-A9B8-47D7-B0B3-0351873B1811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B181F464-A9B8-47D7-B0B3-0351873B1811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B181F464-A9B8-47D7-B0B3-0351873B1811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B181F464-A9B8-47D7-B0B3-0351873B1811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB29C3CC-5AC3-4965-83B8-066F5CDCD7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB29C3CC-5AC3-4965-83B8-066F5CDCD7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB29C3CC-5AC3-4965-83B8-066F5CDCD7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB29C3CC-5AC3-4965-83B8-066F5CDCD7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A17C9BA-A7F0-42F7-88BE-4A343C72F97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A17C9BA-A7F0-42F7-88BE-4A343C72F97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A17C9BA-A7F0-42F7-88BE-4A343C72F97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A17C9BA-A7F0-42F7-88BE-4A343C72F97C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7B4185-265D-43E3-9587-7CFC17DC7822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7B4185-265D-43E3-9587-7CFC17DC7822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7B4185-265D-43E3-9587-7CFC17DC7822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7B4185-265D-43E3-9587-7CFC17DC7822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26914F3-A633-4399-B82B-974B42540D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26914F3-A633-4399-B82B-974B42540D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26914F3-A633-4399-B82B-974B42540D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26914F3-A633-4399-B82B-974B42540D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45343C2D-226C-4A93-B1F1-F095D990B127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45343C2D-226C-4A93-B1F1-F095D990B127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45343C2D-226C-4A93-B1F1-F095D990B127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45343C2D-226C-4A93-B1F1-F095D990B127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A120898B-F06C-4FA4-845F-A89657346AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A120898B-F06C-4FA4-845F-A89657346AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A120898B-F06C-4FA4-845F-A89657346AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A120898B-F06C-4FA4-845F-A89657346AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26396259-930B-4ECE-B47A-5B299B888506}
+	EndGlobalSection
+EndGlobal

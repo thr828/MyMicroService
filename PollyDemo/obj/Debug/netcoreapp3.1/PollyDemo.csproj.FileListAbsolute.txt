@@ -1,0 +1,15 @@
+D:\Project\MicroService\PollyDemo\bin\Debug\netcoreapp3.1\PollyDemo.exe
+D:\Project\MicroService\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.AssemblyInfoInputs.cache
+D:\Project\MicroService\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.AssemblyInfo.cs
+D:\Project\MicroService\PollyDemo\bin\Debug\netcoreapp3.1\PollyDemo.deps.json
+D:\Project\MicroService\PollyDemo\bin\Debug\netcoreapp3.1\PollyDemo.runtimeconfig.json
+D:\Project\MicroService\PollyDemo\bin\Debug\netcoreapp3.1\PollyDemo.runtimeconfig.dev.json
+D:\Project\MicroService\PollyDemo\bin\Debug\netcoreapp3.1\PollyDemo.dll
+D:\Project\MicroService\PollyDemo\bin\Debug\netcoreapp3.1\PollyDemo.pdb
+D:\Project\MicroService\PollyDemo\bin\Debug\netcoreapp3.1\Polly.dll
+D:\Project\MicroService\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.csproj.CoreCompileInputs.cache
+D:\Project\MicroService\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.csproj.CopyComplete
+D:\Project\MicroService\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.dll
+D:\Project\MicroService\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.pdb
+D:\Project\MicroService\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.genruntimeconfig.cache
+D:\Project\MicroService\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.csprojAssemblyReference.cache

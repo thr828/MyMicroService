@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "caWu+oPsZT9E6bssJfMBeZGVUq1CbJF60q4ymF4yr56A2eIuQoLuQpyrAJGB/8xU0aGzFtpbOHArAAnNAPt5pg==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\MicroService\\HystrixCore\\HystrixCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\op058161\\.nuget\\packages\\aspectcore.abstractions\\2.1.0\\aspectcore.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\aspectcore.core\\2.1.0\\aspectcore.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\aspectcore.extensions.dependencyinjection\\2.1.0\\aspectcore.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\aspectcore.extensions.reflection\\2.1.0\\aspectcore.extensions.reflection.2.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.1.0\\microsoft.extensions.caching.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.caching.memory\\2.1.0\\microsoft.extensions.caching.memory.2.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\polly\\6.0.1\\polly.6.0.1.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\rupeng.hystrixcore\\1.0.3\\rupeng.hystrixcore.1.0.3.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\op058161\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

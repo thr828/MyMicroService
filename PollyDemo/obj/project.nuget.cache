@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fO4+0yDqfibxWp2txfheVdM64NY9Wfv+Y0m+89gpzVFFlbpG7zpLhJK76SELDQ3UqtQK8vUi1DgXZaiqV7mwiA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\MicroService\\PollyDemo\\PollyDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\op058161\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

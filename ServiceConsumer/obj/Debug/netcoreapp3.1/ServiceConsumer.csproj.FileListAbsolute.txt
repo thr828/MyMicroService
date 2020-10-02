@@ -1,0 +1,16 @@
+D:\Project\MicroService\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.exe
+D:\Project\MicroService\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.AssemblyInfoInputs.cache
+D:\Project\MicroService\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.AssemblyInfo.cs
+D:\Project\MicroService\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.deps.json
+D:\Project\MicroService\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.runtimeconfig.json
+D:\Project\MicroService\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.runtimeconfig.dev.json
+D:\Project\MicroService\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.dll
+D:\Project\MicroService\ServiceConsumer\bin\Debug\netcoreapp3.1\ServiceConsumer.pdb
+D:\Project\MicroService\ServiceConsumer\bin\Debug\netcoreapp3.1\Consul.dll
+D:\Project\MicroService\ServiceConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project\MicroService\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.csproj.CoreCompileInputs.cache
+D:\Project\MicroService\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.csproj.CopyComplete
+D:\Project\MicroService\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.dll
+D:\Project\MicroService\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.pdb
+D:\Project\MicroService\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.genruntimeconfig.cache
+D:\Project\MicroService\ServiceConsumer\obj\Debug\netcoreapp3.1\ServiceConsumer.csprojAssemblyReference.cache

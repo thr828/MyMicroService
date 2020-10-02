@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aspectDemo/1.0.0": {
+        "dependencies": {
+          "AspectCore.Core": "2.1.0"
+        },
+        "runtime": {
+          "aspectDemo.dll": {}
+        }
+      },
+      "AspectCore.Abstractions/2.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/AspectCore.Abstractions.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "AspectCore.Core/2.1.0": {
+        "dependencies": {
+          "AspectCore.Abstractions": "2.1.0",
+          "AspectCore.Extensions.Reflection": "2.1.0",
+          "Microsoft.CSharp": "4.7.0",
+          "System.Reflection.Emit": "4.7.0",
+          "System.Reflection.Emit.ILGeneration": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AspectCore.Core.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "AspectCore.Extensions.Reflection/2.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/AspectCore.Extensions.Reflection.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "System.Reflection.Emit/4.7.0": {},
+      "System.Reflection.Emit.ILGeneration/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "aspectDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspectCore.Abstractions/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O2DX5TRKIXew9MfT8uaOXfsK5Re9Uu+pTk4fLm/1rzSHlwDtOX6fRVE3pd9pLYq5onf7scrs2uibjXgnAiepWg==",
+      "path": "aspectcore.abstractions/2.1.0",
+      "hashPath": "aspectcore.abstractions.2.1.0.nupkg.sha512"
+    },
+    "AspectCore.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6x4/BW03xskLOawwDF9haH63lhXuLqd8mb7AQ/ZTmuRRjaHnPDQDXWeQLe/ffDwDtnXH0JRjhbSiJjpByUpP5g==",
+      "path": "aspectcore.core/2.1.0",
+      "hashPath": "aspectcore.core.2.1.0.nupkg.sha512"
+    },
+    "AspectCore.Extensions.Reflection/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9fvZZELly4dLSoqIYbHOfxfO43Sv0loBpURWgpKwjhm7ZuBq4DidQA43mo/JQZMJEYuSBfyQVxSs2d1GJcsrug==",
+      "path": "aspectcore.extensions.reflection/2.1.0",
+      "hashPath": "aspectcore.extensions.reflection.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
+      "path": "system.reflection.emit/4.7.0",
+      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit.ILGeneration/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AucBYo3DSI0IDxdUjKksBcQJXPHyoPyrCXYURW1WDsLI4M65Ar/goSHjdnHOAY9MiYDNKqDlIgaYm+zL2hA1KA==",
+      "path": "system.reflection.emit.ilgeneration/4.7.0",
+      "hashPath": "system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+    }
+  }
+}
